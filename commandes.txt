@@ -1,0 +1,1470 @@
+date:12/04/2025 01:06:37
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:12/04/2025 01:06:37
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 2
+----------------------------------------------------
+date:12/04/2025 08:56:37
+Table: Table 2
+Produit: MARG S TOM L
+Quantité: 2
+Prix Unitaire: 400.00
+Sous-total: 800.00
+----------------------------------------------------
+date:12/04/2025 08:56:37
+Table: Table 2
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+date:12/04/2025 08:56:37
+Table: Table 2
+Produit: MARG S TOM XXL
+Quantité: 1
+Prix Unitaire: 1,100.00
+Sous-total: 1,100.00
+----------------------------------------------------
+Total: 2,700.00
+----------------------------------------------------
+Commande de la Table: Table 4
+----------------------------------------------------
+date:12/04/2025 09:07:59
+Table: Table 4
+Produit: MARG S TOM L
+Quantité: 2
+Prix Unitaire: 400.00
+Sous-total: 800.00
+----------------------------------------------------
+date:12/04/2025 09:07:59
+Table: Table 4
+Produit: TIRAMISU
+Quantité: 2
+Prix Unitaire: 250.00
+Sous-total: 500.00
+----------------------------------------------------
+date:12/04/2025 09:07:59
+Table: Table 4
+Produit: TARTELETTE CITRON
+Quantité: 3
+Prix Unitaire: 150.00
+Sous-total: 450.00
+----------------------------------------------------
+date:12/04/2025 09:07:59
+Table: Table 4
+Produit: CHEESECAKE CHOCOLAT
+Quantité: 1
+Prix Unitaire: 350.00
+Sous-total: 350.00
+----------------------------------------------------
+Total: 2,100.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:12/04/2025 09:28:04
+Table: Table 1
+Produit: 4 SAISONS S T XL
+Quantité: 3
+Prix Unitaire: 1,800.00
+Sous-total: 5,400.00
+----------------------------------------------------
+date:12/04/2025 09:28:04
+Table: Table 1
+Produit: 4 SAISONS S B L
+Quantité: 2
+Prix Unitaire: 1,000.00
+Sous-total: 2,000.00
+----------------------------------------------------
+date:12/04/2025 09:28:04
+Table: Table 1
+Produit: TACOS VIANDE L
+Quantité: 4
+Prix Unitaire: 600.00
+Sous-total: 2,400.00
+----------------------------------------------------
+Total: 9,800.00
+----------------------------------------------------
+Commande de la Table: Table 5
+----------------------------------------------------
+date:12/04/2025 09:30:06
+Table: Table 5
+Produit: MARG S TOM L
+Quantité: 3
+Prix Unitaire: 400.00
+Sous-total: 1,200.00
+----------------------------------------------------
+date:12/04/2025 09:30:06
+Table: Table 5
+Produit: CRISPY BOX XL 9P
+Quantité: 3
+Prix Unitaire: 1,000.00
+Sous-total: 3,000.00
+----------------------------------------------------
+date:12/04/2025 09:30:06
+Table: Table 5
+Produit: CHEESECAKEFRAISE
+Quantité: 5
+Prix Unitaire: 350.00
+Sous-total: 1,750.00
+----------------------------------------------------
+date:12/04/2025 09:30:06
+Table: Table 5
+Produit: CHEESECAKEPISTACHE
+Quantité: 1
+Prix Unitaire: 350.00
+Sous-total: 350.00
+----------------------------------------------------
+Total: 6,300.00
+----------------------------------------------------
+Commande de la Table: Table 5
+----------------------------------------------------
+date:12/04/2025 13:23:13
+Table: Table 5
+Produit: MARG S TOM L
+Quantité: 2
+Prix Unitaire: 400.00
+Sous-total: 800.00
+----------------------------------------------------
+date:12/04/2025 13:23:13
+Table: Table 5
+Produit: MARG S TOM XL
+Quantité: 2
+Prix Unitaire: 800.00
+Sous-total: 1,600.00
+----------------------------------------------------
+date:12/04/2025 13:23:13
+Table: Table 5
+Produit: SALADE ALGERIENNE
+Quantité: 1
+Prix Unitaire: 250.00
+Sous-total: 250.00
+----------------------------------------------------
+date:12/04/2025 13:23:13
+Table: Table 5
+Produit: SALADE CESAR
+Quantité: 2
+Prix Unitaire: 450.00
+Sous-total: 900.00
+----------------------------------------------------
+date:12/04/2025 13:23:13
+Table: Table 5
+Produit: TARTELETTE CITRON
+Quantité: 4
+Prix Unitaire: 150.00
+Sous-total: 600.00
+----------------------------------------------------
+Total: 4,150.00
+----------------------------------------------------
+Commande de la Table: Table 5
+----------------------------------------------------
+date:12/04/2025 13:23:26
+Table: Table 5
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:12/04/2025 13:23:26
+Table: Table 5
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 2
+----------------------------------------------------
+date:12/04/2025 13:23:37
+Table: Table 2
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:12/04/2025 13:23:37
+Table: Table 2
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 8
+----------------------------------------------------
+date:12/04/2025 13:38:57
+Table: Table 8
+Produit: MARG S TOM L
+Quantité: 2
+Prix Unitaire: 400.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 800.00
+----------------------------------------------------
+Commande de la Table: Table 9
+----------------------------------------------------
+date:12/04/2025 13:53:03
+Table: Table 9
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:12/04/2025 13:53:03
+Table: Table 9
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 9
+----------------------------------------------------
+date:12/04/2025 13:53:03
+Table: Table 9
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:12/04/2025 13:53:03
+Table: Table 9
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 9
+----------------------------------------------------
+date:12/04/2025 13:55:13
+Table: Table 9
+Produit: MARG S TOM L
+Quantité: 2
+Prix Unitaire: 400.00
+Sous-total: 800.00
+----------------------------------------------------
+date:12/04/2025 13:55:13
+Table: Table 9
+Produit: MARG S TOM XL
+Quantité: 4
+Prix Unitaire: 800.00
+Sous-total: 3,200.00
+----------------------------------------------------
+Total: 4,000.00
+----------------------------------------------------
+Commande de la Table: Table 6
+----------------------------------------------------
+date:12/04/2025 16:35:13
+Table: Table 6
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:12/04/2025 16:35:13
+Table: Table 6
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+date:12/04/2025 16:35:13
+Table: Table 6
+Produit: ORIENTAL S T X L
+Quantité: 3
+Prix Unitaire: 1,000.00
+Sous-total: 3,000.00
+----------------------------------------------------
+date:12/04/2025 16:35:13
+Table: Table 6
+Produit: ORIENTAL S T X XL
+Quantité: 1
+Prix Unitaire: 1,600.00
+Sous-total: 1,600.00
+----------------------------------------------------
+date:12/04/2025 16:35:13
+Table: Table 6
+Produit: CANETTE 33 CL
+Quantité: 3
+Prix Unitaire: 100.00
+Sous-total: 300.00
+----------------------------------------------------
+Total: 6,100.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 01:28:33
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 01:29:50
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 02:06:27
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 2
+Prix Unitaire: 400.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 800.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 12:55:00
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 2
+Prix Unitaire: 400.00
+Sous-total: 800.00
+----------------------------------------------------
+date:13/04/2025 12:55:00
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+date:13/04/2025 12:55:00
+Table: Table 1
+Produit: CANETTE 33 CL
+Quantité: 1
+Prix Unitaire: 100.00
+Sous-total: 100.00
+----------------------------------------------------
+date:13/04/2025 12:55:00
+Table: Table 1
+Produit: EAU G M
+Quantité: 2
+Prix Unitaire: 50.00
+Sous-total: 100.00
+----------------------------------------------------
+Total: 1,800.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:03:39
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:04:58
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:21:15
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:23:59
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:24:56
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:25:36
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:29:19
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:32:53
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:33:30
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:39:51
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:41:00
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:46:53
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:49:11
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:50:19
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 13:50:40
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 14:03:33
+Table: Table 1
+Produit: LOSGEME S T XL
+Quantité: 3
+Prix Unitaire: 2,000.00
+Sous-total: 6,000.00
+----------------------------------------------------
+Total: 6,000.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 14:07:30
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 15:56:10
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 16:06:31
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:13/04/2025 16:06:31
+Table: Table 1
+Produit: PLAT MEXICAIN
+Quantité: 1
+Prix Unitaire: 750.00
+Sous-total: 750.00
+----------------------------------------------------
+Total: 1,150.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 16:26:59
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:13/04/2025 16:26:59
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:13/04/2025 17:50:53
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 15:52:24
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 17:09:06
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:16/04/2025 17:09:06
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 17:10:36
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:16/04/2025 17:10:36
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 17:48:35
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 800.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 16:53:50
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:16/04/2025 16:53:50
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 17:58:07
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 18:17:28
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 18:21:49
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 18:24:42
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 18:43:32
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 18:48:13
+Table: Table 1
+Produit: LOSGEME S T L
+Quantité: 1
+Prix Unitaire: 1,100.00
+Sous-total: 1,100.00
+----------------------------------------------------
+Total: 1,100.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 19:39:59
+Table: Table 1
+Produit: PASTA ITALIENNE
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+date:16/04/2025 19:39:59
+Table: Table 1
+Produit: MINI PASTA ITALIENNE
+Quantité: 1
+Prix Unitaire: 600.00
+Sous-total: 600.00
+----------------------------------------------------
+Total: 1,400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 19:41:30
+Table: Table 1
+Produit: TACOS VIANDE L
+Quantité: 1
+Prix Unitaire: 600.00
+Sous-total: 600.00
+----------------------------------------------------
+date:16/04/2025 19:41:30
+Table: Table 1
+Produit: TACOS VIANDE XL
+Quantité: 1
+Prix Unitaire: 900.00
+Sous-total: 900.00
+----------------------------------------------------
+date:16/04/2025 19:41:30
+Table: Table 1
+Produit: PASTA ITALIENNE
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+date:16/04/2025 19:41:30
+Table: Table 1
+Produit: MINI PASTA ITALIENNE
+Quantité: 1
+Prix Unitaire: 600.00
+Sous-total: 600.00
+----------------------------------------------------
+Total: 2,900.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:16/04/2025 22:41:59
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 00:00:31
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 00:06:10
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+date:17/04/2025 00:06:10
+Table: Table 1
+Produit: FRITES EPICEES
+Quantité: 
+Prix Unitaire: 200.00
+Sous-total: 0.00
+----------------------------------------------------
+date:17/04/2025 00:06:10
+Table: Table 1
+Produit: POUTINE VIANDE
+Quantité: 
+Prix Unitaire: 700.00
+Sous-total: 0.00
+----------------------------------------------------
+Total: 800.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 00:06:39
+Table: Table 1
+Produit: ORIENTAL ST L
+Quantité: 0
+Prix Unitaire: 650.00
+Sous-total: 0.00
+----------------------------------------------------
+Total: 0.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 12:01:21
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 12:04:17
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 
+Prix Unitaire: 400.00
+Sous-total: 0.00
+----------------------------------------------------
+date:17/04/2025 12:04:17
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 800.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 12:08:56
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 12:19:56
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 12:25:46
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 14:23:05
+Table: Table 1
+Produit: PLAT  CORDON BLEU
+Quantité: 1
+Prix Unitaire: 950.00
+Sous-total: 950.00
+----------------------------------------------------
+Total: 950.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 14:36:14
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 14:39:49
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 14:49:26
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:17/04/2025 14:49:26
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 14:54:59
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 16:52:51
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:17/04/2025 16:52:51
+Table: Table 1
+Produit: THON CAPIRO
+Quantité: 1
+Prix Unitaire: 600.00
+Sous-total: 600.00
+----------------------------------------------------
+Total: 1,000.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 18:06:28
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 18:12:04
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 18:21:04
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 18:21:32
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 18:23:51
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 18:35:17
+Table: Table 1
+Produit: LOSGEME S B L
+Quantité: 1
+Prix Unitaire: 1,150.00
+Sous-total: 1,150.00
+----------------------------------------------------
+date:17/04/2025 18:35:17
+Table: Table 1
+Produit: PLAT  LOS GEMELOS 4P
+Quantité: 1
+Prix Unitaire: 3,900.00
+Sous-total: 3,900.00
+----------------------------------------------------
+Total: 5,050.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:17/04/2025 18:36:47
+Table: Table 1
+Produit: POULET AMERICAIN
+Quantité: 2
+Prix Unitaire: 550.00
+Sous-total: 1,100.00
+----------------------------------------------------
+date:17/04/2025 18:36:47
+Table: Table 1
+Produit: MACEDOINE
+Quantité: 1
+Prix Unitaire: 350.00
+Sous-total: 350.00
+----------------------------------------------------
+Total: 1,450.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 09:42:53
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 09:51:43
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 09:58:07
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:24:10
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:25:00
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:18/04/2025 10:25:00
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:36:59
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:39:06
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:40:04
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:46:36
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:48:03
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:49:46
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:52:12
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:52:47
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:18/04/2025 10:52:47
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,200.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 10:57:48
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 11:02:11
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 11:09:39
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 11:11:07
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 12:11:45
+Table: Table 1
+Produit: PLAT  LOS GEMELOS 2P
+Quantité: 1
+Prix Unitaire: 2,200.00
+Sous-total: 2,200.00
+----------------------------------------------------
+Total: 2,200.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 12:39:14
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 12:41:38
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 12:43:50
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 12:46:34
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 12:47:14
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 12:48:00
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 13:11:16
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:18/04/2025 13:11:16
+Table: Table 1
+Produit: PLAT MEXICAIN
+Quantité: 1
+Prix Unitaire: 750.00
+Sous-total: 750.00
+----------------------------------------------------
+Total: 1,150.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 15:04:08
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+date:18/04/2025 15:04:08
+Table: Table 1
+Produit: ORIENTAL ST L
+Quantité: 1
+Prix Unitaire: 650.00
+Sous-total: 650.00
+----------------------------------------------------
+date:18/04/2025 15:04:08
+Table: Table 1
+Produit: PLAT  A LA CREME
+Quantité: 1
+Prix Unitaire: 850.00
+Sous-total: 850.00
+----------------------------------------------------
+date:18/04/2025 15:04:08
+Table: Table 1
+Produit: PLAT TANDORI
+Quantité: 1
+Prix Unitaire: 900.00
+Sous-total: 900.00
+----------------------------------------------------
+Total: 2,800.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 16:39:14
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 1
+Prix Unitaire: 400.00
+Sous-total: 400.00
+----------------------------------------------------
+Total: 400.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 16:43:10
+Table: Table 1
+Produit: MARG S TOM L
+Quantité: 2
+Prix Unitaire: 400.00
+Sous-total: 800.00
+----------------------------------------------------
+date:18/04/2025 16:43:10
+Table: Table 1
+Produit: MARG S TOM XL
+Quantité: 1
+Prix Unitaire: 800.00
+Sous-total: 800.00
+----------------------------------------------------
+Total: 1,600.00
+----------------------------------------------------
+Commande de la Table: Table 1
+----------------------------------------------------
+date:18/04/2025 16:44:46
+Table: Table 1
+Produit: ORIENTAL ST L
+Quantité: 1
+Prix Unitaire: 650.00
+Sous-total: 650.00
+----------------------------------------------------
+Total: 650.00
+----------------------------------------------------
